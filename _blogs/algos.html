@@ -1,0 +1,9 @@
+---
+layout: page
+title: Algorithms
+---
+{% for algo in site.algos %}
+	<div class="algo">
+		<h2><a href="{{ algo.url }}">{{ algo.title }}</a></h2>
+	</div>
+{% endfor %}

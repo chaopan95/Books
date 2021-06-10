@@ -1,0 +1,9 @@
+---
+layout: page
+title: Machine Learning
+---
+{% for ml in site.mls %}
+	<div class="ml">
+		<h2><a href="{{ ml.url }}">{{ ml.title }}</a></h2>
+	</div>
+{% endfor %}

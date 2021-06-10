@@ -1,0 +1,9 @@
+---
+layout: page
+title: Data
+---
+{% for data in site.datas %}
+	<div class="data">
+		<h2><a href="{{ data.url }}">{{ data.title }}</a></h2>
+	</div>
+{% endfor %}

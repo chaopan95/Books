@@ -1,0 +1,9 @@
+---
+layout: page
+title: Probability
+---
+{% for prob in site.probs %}
+	<div class="prob">
+		<h2><a href="{{ prob.url }}">{{ prob.title }}</a></h2>
+	</div>
+{% endfor %}

@@ -1,0 +1,16 @@
+ID;age;work;house;credit;class
+1;young;no;no;normal;no
+2;young;no;no;good;no
+3;young;yes;no;good;yes
+4;young;yes;yes;normal;yes
+5;young;no;no;normal;no
+6;junioir;no;no;normal;no
+7;junioir;no;no;good;no
+8;junioir;yes;yes;good;yes
+9;junioir;no;yes;pretty;yes
+10;junioir;no;yes;pretty;yes
+11;senior;no;yes;pretty;yes
+12;senior;no;yes;good;yes
+13;senior;yes;no;good;yes
+14;senior;yes;no;pretty;yes
+15;senior;no;no;normal;no
